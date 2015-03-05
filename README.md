@@ -16,7 +16,7 @@ Note: The following instructions assume Hyperspin is set up with Hyperlaunch wit
 
 ![Alt text](http://i.imgur.com/1a50rV8.png)
 
-##### 2. Run our replacement HyperLaunch.exe to log into your GDrive account, click accept, and paste the response code into the command window. this will create a file called 'cred.bin' that can be removed at any time to sign in with another account or remove the wrapper's access to your GDrive. You only have to do this once.
+##### 2. Run our replacement HyperLaunch.exe to log into your GDrive account, click accept, and paste the response code into the command window. this will create a file called 'cred.bin' that can be removed at any time to sign in with another account or remove the wrapper's access to your GDrive. You only have to do this once. Also, make a copy of 'cred.bin' and put it in your Hyperspin directory - it will be needed for the frontend later.
 
 ![Alt text](http://i.imgur.com/RrrPpYW.png)
 ![Alt text](http://i.imgur.com/CI7gua2.png)
