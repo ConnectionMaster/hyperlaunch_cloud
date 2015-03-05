@@ -10,7 +10,7 @@ Or from a friend's set of files (if they share it with you):
 
 ![Alt text](http://i.imgur.com/KSD9Pn4.png "Optional title")
 
-Note: The following instructions assume Hyperspin set up with Hyperlaunch within its own directory (eg Hyperlaunch\Hyperlaunch.exe is in your Hyperspin directory).
+Note: The following instructions assume Hyperspin is set up with Hyperlaunch within its own directory (eg Hyperlaunch\Hyperlaunch.exe is in your Hyperspin directory).
 
 ##### 1. Simply rename the HyperLaunch.exe to HyperLaunch_real.exe and copy all files from the repo to your HyperLaunch directory.
 
