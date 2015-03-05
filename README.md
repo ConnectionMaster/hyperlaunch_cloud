@@ -5,7 +5,7 @@ that allows you to pull roms/isos/etc from your Google Drive.
 
 ![Alt text](http://i.imgur.com/O0izf18.png "Optional title")
 
-#####1. Simply rename the real HyperLaunch to HyperLaunch_real.exe.
+#####1. Simply rename the real HyperLaunch to HyperLaunch_real.exe and copy all files to your HyperLaunch directory.
 
 ![Alt text](http://i.imgur.com/1a50rV8.png)
 
