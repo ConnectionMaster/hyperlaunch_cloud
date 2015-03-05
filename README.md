@@ -28,7 +28,7 @@ Note: The following instructions assume Hyperspin is set up with Hyperlaunch wit
 
 
 ##### 4. In the HyperLaunch Directory, run "cloud_db_gen.exe [system_name]" to create an xml file database of all your files both local and cloud-based where [system_name] is the Name in Hyperlaunch\Settings\* - example:
-	<i> cloud_db_gen.exe "Nintendo DS"</i>
+	cloud_db_gen.exe "Nintendo DS"
 
 ![Alt text](http://i.imgur.com/bh4aixu.png)
 
