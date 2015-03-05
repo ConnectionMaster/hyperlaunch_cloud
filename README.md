@@ -3,8 +3,11 @@
 This collection of tools allows you to stream your rom collection from cloud storage to a HyperLaunch-enabled frontend such as HyperSpin.
 
 You can stream from your own cloud storage files:
+
 ![Alt text](http://i.imgur.com/O0izf18.png "Optional title")
+
 Or from a friend's set of files (if they share it with you):
+
 ![Alt text](http://i.imgur.com/KSD9Pn4.png "Optional title")
 
 Note: The following instructions assume Hyperspin set up with Hyperlaunch within its own directory (eg Hyperlaunch\Hyperlaunch.exe is in your Hyperspin directory).
