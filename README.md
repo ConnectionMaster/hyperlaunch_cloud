@@ -26,6 +26,8 @@ that allows you to pull roms/isos/etc from your Google Drive.
 
 #####5.Copy the 'cred.bin' file and the 'GDConfig.ini' file to your Hyperspin root (where Hyperspin.exe is).
 
+![Alt text](http://i.imgur.com/kbY9H4X.png)
+
 #####6. You're all set! Run Hyperspin and play as normal, the wrapper will download any rom you don't have locally from your google drive under roms/system_name/game_name - the names will need to correlate to what HyperLaunch looks for (look to the directory names in Hyperlaunch\Settings for naming your GDrive folders).
 
 Example from the command line:
